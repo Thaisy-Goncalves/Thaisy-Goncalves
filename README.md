@@ -1,13 +1,20 @@
 ✨Hi! I'm Thaisy 
-> "Só se vê bem com o coração, o essencial é invisível aos olhos." - O Pequeno Príncipe
+---
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nqqgvim3rmotac5jzyorts7p2e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=594eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+> "Só se vê bem com o coração, o essencial é invisível aos olhos." - O Pequeno Príncipe 
 #
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nqqgvim3rmotac5jzyorts7p2e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=594eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thaisy-Goncalves&show_icons=true&count_private=true&hide_border=true&title_color=723172&icon_color=723172&text_color=c9d1d9&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisy-Goncalves&layout=compact&hide_border=true&title_color=723172&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+#
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-profile](http://www.linkedin.com/in/%20thaisy-goncalvesjg))
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Thaisy-Goncalves)
 
 <!--<div style="container-fluid">
 
@@ -18,7 +25,5 @@
 </div>
 
 <!-- Contact and Social Media Section (Optional) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-profile](http://www.linkedin.com/in/%20thaisy-goncalvesjg))
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Thaisy-Goncalves)
 
 
