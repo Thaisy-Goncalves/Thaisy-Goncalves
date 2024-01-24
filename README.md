@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=887AFF&random=false&width=435&lines=%E2%9C%A8+Hi!+I'm+Thaisy.)](https://git.io/typing-svg)
-#
+✨Hi! I'm Thaisy 
 > "Só se vê bem com o coração, o essencial é invisível aos olhos." - O Pequeno Príncipe
 #
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nqqgvim3rmotac5jzyorts7p2e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=594eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
