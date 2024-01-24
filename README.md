@@ -11,10 +11,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisy-Goncalves&layout=compact&hide_border=true&title_color=594eb1&&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-#
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Thaisy-Goncalves)
-
 <!--<div style="container-fluid">
 
 ![Thaisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaisy-Goncalves&show_icons=true&count_private=true&hide_border=true&title_color=8a63c8&icon_color=a259b4&text_color=c792ea&bg_color=2d1f2f)
